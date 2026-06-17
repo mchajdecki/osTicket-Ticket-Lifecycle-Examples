@@ -1,5 +1,5 @@
-# osTicket-Post-Installation-Configuration
-Post Installation Set up of osTicket
+# osTicket-Ticket-Lifestyle-Examples
+osTicket Lifestyle Examples
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
