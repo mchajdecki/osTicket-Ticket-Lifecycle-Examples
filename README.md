@@ -43,11 +43,11 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#clean">Clean Up Departments.</a></li>
-<li><a href="#"></a></li>
+<li><a href="#clean">Clean Up Departments</a></li>
+<li><a href="#">Create Ticket as an End User</a></li>
 <li><a href="#"></a></li>
 <li><a href="#">/a></li>
-<li><a href="#">)</a></li>
+<li><a href="#"></a></li>
 <li><a href="#"></a></li>
 <li><a href="#">/a></li>
 <li><a href="#"></a></li>
