@@ -176,11 +176,11 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li></li>
+    <li>In the next step we will change Agent Johns permissions so he can access more features of the created ticket.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_6"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/48b79be3ff4e80f40b157ed5bdc95d40f4106298/images/Slide-6.jpg" alt="Slide_6"/>
 </p>
 <br>
 <hr>
