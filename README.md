@@ -169,7 +169,18 @@ In this lab, we will be creating tickets as end users and observing all the tick
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_5"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/c310a719646ea32914e1ac64e50fdbc4df8f00cc/images/Slide-5.jpg" alt="Slide_5"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_6"/>
 </p>
 <br>
 <hr>
