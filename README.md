@@ -150,5 +150,29 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Navigate to Tickets and select the ticket created by the End user.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/c08055f5bbde49868daa4f3bb004f96f157614b2/images/Slide-4.jpg" alt="Slide_4"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Observe the ticket as Agent John.</li>
+    <li>Notice how you cant make changes to the ticket or updates since your permissions as Agent John are for view only.</li>
+    <li>Only thing you can do is post an internal note. Type in a not of your choice and click post note to test.</li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_5"/>
+</p>
+<br>
+<hr>
+
 
 
