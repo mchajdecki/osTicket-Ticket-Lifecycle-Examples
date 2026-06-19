@@ -111,7 +111,8 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-     <li></li>
+    <li>Log into the End Users osTicket URL: <a href="http://localhost/osTicket"></a> 
+     <li>As an end-user, create the following ticket; The entire mobile/online banking system is down.</li>
   </ol>
 </p>
 <p>
