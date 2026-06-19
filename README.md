@@ -45,7 +45,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <li><a href="#clean">Clean Up Departments</a></li>
 <li><a href="#create">Create Ticket as an End User</a></li>
-<li><a href="#observe"></a>Observe Ticket Properties as Agent</li>
+<li><a href="#observe">Observe Ticket Properties as Agent</a></li>
 <li><a href="#">/a></li>
 <li><a href="#"></a></li>
 <li><a href="#"></a></li>
