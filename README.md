@@ -44,8 +44,8 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <ul>
 
 <li><a href="#clean">Clean Up Departments</a></li>
-<li><a href="#">Create Ticket as an End User</a></li>
-<li><a href="#"></a></li>
+<li><a href="#create">Create Ticket as an End User</a></li>
+<li><a href="#observe"></a>Observe Ticket Properties as Agent</li>
 <li><a href="#">/a></li>
 <li><a href="#"></a></li>
 <li><a href="#"></a></li>
@@ -111,35 +111,44 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li>As the End Users in this osTicket URL: <a href="http://localhost/osTicket">My help desk Support Ticket System.</a> Select Open a New Ticket 
-     <li>Fill in the end user information and create a new ticket.</li>
+    <li>As the End Users in this osTicket URL: <a href="http://localhost/osTicket">My help desk Support Ticket System.</a>
+      <li>Click Open a New Ticket.</li>
+     <li>Fill in the form to open a new ticket.</li>
     <li>The ticket help topic should be general inquiry and the Issue summary should state; The entire mobile/online banking system is down with a brief description of the issue.</li>
+     <li>Click Create Ticket.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/28589c8a81d78341bdc0c278a4024fbbbb7e7e64/images/Slide-1.jpg" alt="Slide_1"/>
 </p>
 <br>
 <hr>
 
 <p>
   <ol type="1">
-     <li></li>
+     <li>Support ticket request created message will display.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/56fc45cc60a945a709d7188c0be2e1d5829116b8/images/Slide-2.jpg" alt="Slide_2"/>
+</p>
+<br>
+<nr></nr>
+<hr>
+
+<h1 id="observe"><i>Observe Ticket Properties as Agent.</i></h1>
+<h2></h2>
+
+<p>
+  <ol type="1">
+    <li>Go into the<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Portal</a> and login as agent John.
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/4619bf05410d1cd6b565091b7855e1ab4d4221b5/images/Slide-3.jpg" alt="Slide_3"/>
 </p>
 <br>
 <hr>
 
-<p>
-  <ol type="1">
-     <li></li>
-  </ol>
-</p>
-<p>
-<img src="" alt="Slide"/>
-</p>
-<br>
-<hr>
+
+
