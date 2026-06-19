@@ -111,12 +111,35 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li>Log into the End Users osTicket URL: <a href="http://localhost/osTicket">Here</a> 
-     <li>As an end-user, create the following ticket; The entire mobile/online banking system is down.</li>
+    <li>As the End Users in this osTicket URL: <a href="http://localhost/osTicket">My help desk Support Ticket System.</a> Select Open a New Ticket 
+     <li>Fill in the end user information and create a new ticket.</li>
+    <li>The ticket help topic should be general inquiry and the Issue summary should state; The entire mobile/online banking system is down with a brief description of the issue.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_43"/>
+<img src="" alt="Slide_"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide"/>
 </p>
 <br>
 <hr>
