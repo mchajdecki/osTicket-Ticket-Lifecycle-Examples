@@ -172,10 +172,33 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <p>
   <ol type="1">
     <li>In the next step we will change Agent Johns permissions so he can access more features of the created ticket.</li>
+    <li>Access the Admin panel by clicking on the Admins Panel button.</li>
   </ol>
 </p>
 <p>
 <img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/48b79be3ff4e80f40b157ed5bdc95d40f4106298/images/Slide-6.jpg" alt="Slide_6"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Once in the admin panel click on Agents to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/dce8477a36be1a6eb22c5750575064b1a701d29b/images/Slide-7.jpg" alt="Slide_7"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_8"/>
 </p>
 <br>
 <hr>
