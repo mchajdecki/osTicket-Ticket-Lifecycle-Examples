@@ -9,11 +9,6 @@ osTicket Lifestyle Examples
 In this lab, we will be creating tickets as end users and observing all the ticket properties and responding to them as help desk professionals
 <br/>
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: osTicket Post Installation Configuration](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
