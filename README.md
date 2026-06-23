@@ -222,7 +222,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
   </ol>
 </p>
 <p>
-<img src="" alt="Slide-10"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/c6fb58b5673e4b8f3f93c9b3d296dce1b79d2d67/images/Slide_10.jpg" alt="Slide-10"/>
 </p>
 <br>
 <hr>
