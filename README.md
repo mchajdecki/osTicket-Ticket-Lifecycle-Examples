@@ -204,4 +204,19 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <hr>
 
 
+<p>
+  <ol type="1">
+    <li>Click on access and then select more access for the agent to make changes and have more options with the selected tickets.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/ead4d90640fa173f51bc6e5fa89b94389fbac550/images/Slide-9.jpg" alt="Slide_9"/>
+</p>
+<br>
+<hr>
+
+
+
+
+
 
