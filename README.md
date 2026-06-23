@@ -194,11 +194,11 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li></li>
+    <li>Click on the agent you want to make changes to.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_8"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/df26d0f3bbf4551f8844ddeb8fabaddba3638ac7/images/Slide-8.jpg" alt="Slide_8"/>
 </p>
 <br>
 <hr>
