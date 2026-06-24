@@ -228,6 +228,17 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Click back on the ticket to observe it with the new granted permissions.</li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide-11"/>
+</p>
+<br>
+<hr>
+
 
 
 
