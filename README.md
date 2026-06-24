@@ -207,6 +207,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <p>
   <ol type="1">
     <li>Click on access and then select more access for the agent to make changes and have more options with the selected tickets.</li>
+    <li>Save the changes.</li>
   </ol>
 </p>
 <p>
