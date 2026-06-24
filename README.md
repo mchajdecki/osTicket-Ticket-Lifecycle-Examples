@@ -41,7 +41,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <li><a href="#clean">Clean Up Departments</a></li>
 <li><a href="#create">Create Ticket as an End User</a></li>
 <li><a href="#observe">Observe Ticket Properties as Agent</a></li>
-<li><a href="#"></a></li>
+<li><a href="change#">Change Agent Permissions</a></li>
 <li><a href="#"></a></li>
 <li><a href="#"></a></li>
 <li><a href="#"></a></li>
@@ -50,7 +50,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 </br>
 
 
-<h1 id="clean"><i>Clean Up Departments.</i></h1>
+<h1 id="clean"><i>Clean Up Departments</i></h1>
 <h2>Before getting started we will log in as Admin and delete the maintance department. The reason for this is when you create tickets it automatically gets assigned to this department and we want the tickets to utilize the departments we created in post installation configuration.</h2>
 
 <p>
@@ -101,7 +101,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <hr>
 
 
-<h1 id="create"><i>Create Ticket as an End User.</i></h1>
+<h1 id="create"><i>Create Ticket as an End User</i></h1>
 <h2></h2>
 
 <p>
@@ -158,7 +158,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li>Observe the ticket as Agent John.</li>
+    <li>Observe the ticket as Agent John - (view only)</li>
     <li>Notice how you cant make changes to the ticket or updates since your permissions as Agent John are for view only.</li>
     <li>Only thing you can do is post an internal note. Type in a not of your choice and click post note to test.</li>
   </ol>
@@ -169,7 +169,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <br>
 <hr>
 
-<p>
+<h1 id="change"><i>Change Agent Permissions.</i></h1>
   <ol type="1">
     <li>In the next step we will change Agent Johns permissions so he can access more features of the created ticket.</li>
     <li>Access the Admin panel by clicking on the Admins Panel button.</li>
