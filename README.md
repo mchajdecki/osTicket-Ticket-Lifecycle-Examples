@@ -42,10 +42,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <li><a href="#create">Create Ticket as an End User</a></li>
 <li><a href="#observe">Observe Ticket Properties as Agent</a></li>
 <li><a href="#change#">Change Agent Permissions</a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
+<li><a href="#close">Working and Closing Ticket</a></li>
 </ul>
 </br>
 
@@ -102,7 +99,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 
 <h1 id="create"><i>Create Ticket as an End User</i></h1>
-<h2></h2>
+<h2>Showing a perspective of an End user having an issue and creating a ticket to get it resolved.</h2>
 
 <p>
   <ol type="1">
@@ -194,7 +191,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li>Click on the agent you want to make changes to.</li>
+    <li>Click on the agent you want to make changes to as Admin.</li>
   </ol>
 </p>
 <p>
@@ -239,6 +236,37 @@ In this lab, we will be creating tickets as end users and observing all the tick
 </p>
 <br>
 <hr>
+
+<p>
+  <ol type="1">
+    <li>As John we can now make crucial changes to the ticket such as; prority, department, assigned to , SLA plan , Help topic and due date.</li>
+    <li>Observe the ticket changes and updates after granted permissions.</li>
+    <li>Since one of the changes was to assign the ticket - as agent John we cant see the ticket anymore. Unless again we change more permissions in the Admin panel.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/1795d6bc087c0aa9923bec0a030f6b8990c92f22/images/Slide_12.jpg" alt="Slide-12"/>
+</p>
+<br>
+<br>
+<hr>
+
+
+<h1 id="close"><i>Working and Closing tickets.</i></h1>
+<h2></h2>
+
+<p>
+  <ol type="1">
+     <li>Navigate to and Log into the Admin/Analyst section of osTicket and log in as the agent the ticket was assigned to; in my example it is agent Mark Smith<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_13"/>
+</p>
+<br>
+<hr>
+
+
 
 
 
