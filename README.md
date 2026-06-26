@@ -257,15 +257,38 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-     <li>Navigate to and Log into the Admin/Analyst section of osTicket and log in as the agent the ticket was assigned to; in my example it is agent Mark Smith<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
+     <li>Navigate to the Admin/Analyst section of osTicket and log in as the agent the ticket was assigned to; in my example it is agent Mark Smith<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_13"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/a9147fffa783e15fb51e2c3b79e53fd0d01cbfb0/images/Slide_13.jpg" alt="Slide_13"/>
 </p>
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>As agent Mark Smith we can see the ticket that we were assigned.</li>
+    <li>Click on the ticket to look at details of the encountered problem and notes or updates associated with the ticket.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/c52c27134bd00db7d42793f8ff142bdc9f3e2520/images/Slide_14.jpg" alt="Slide_14"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+    <li>Click on the ticket to look at details of the encountered problem and notes or updates associated with the ticket.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/c52c27134bd00db7d42793f8ff142bdc9f3e2520/images/Slide_14.jpg" alt="Slide_14"/>
+</p>
+<br>
+<hr>
 
 
 
