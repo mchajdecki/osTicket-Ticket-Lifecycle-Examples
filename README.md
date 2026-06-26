@@ -305,16 +305,38 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li></li>
+    <li>Confirmation messages that the ticket was resolved and the message with the solution was posted that also goes to the end user and everyone that was involved with the ticket.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_17"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/08ed775b1f4690085e8ca581fcae9049d448f910/images/Slide_17.jpg" alt="Slide_17"/>
 </p>
+<br>
 <br>
 <hr>
 
+<h2>Independent Practice Checklist</h2>
+<ul>
+<li><a>Escalate & Lockout: Set ticket properties to SEV-A (SysAdmins), observe the immediate loss of access, then use the Admin Panel to grant your account view-only permissions.</a></li>
+<li><a>Resolve the Queue: Return to the Agent Panel to verify the read-only status of the escalated ticket, then proceed to officially solve all active tickets.</a></li>
+<li><a>Defeat Randomization: Practice the mindset of logging every hypothetical interaction (walk-ups, phone calls, chats) to ensure accurate IT performance metrics.</a></li>
+<li><a>Build Muscle Memory: Rerun this entire tutorial from scratch multiple times using only this high-level checklist until you can navigate the system entirely from memory./a></li>
+</ul>
+</br>
 
+
+<h2>This concludes this tutorial about the complete ticket lifecycle in osTicket, showcasing how requests are created by end-users, configured and routed by administrators, and ultimately managed and resolved by support agents.</h2>
+<h2>Use any of the following links below to revisit tutorial sections.</h2>
+<ul>
+<li><a href="#clean">Clean Up Departments</a></li>
+<li><a href="#create">Create Ticket as an End User</a></li>
+<li><a href="#observe">Observe Ticket Properties as Agent</a></li>
+<li><a href="#change#">Change Agent Permissions</a></li>
+<li><a href="#close">Working and Closing Ticket</a></li>
+<h2>To look back at the previous installation portion prior to using and utilizing tickets <a href="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration">Click Here</a>
+</ul>
+<br>
+<a href="#top" ><strong>Back To Top</strong></a>
 
 
 
