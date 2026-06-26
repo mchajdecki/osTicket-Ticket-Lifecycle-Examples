@@ -269,7 +269,7 @@ In this lab, we will be creating tickets as end users and observing all the tick
 <p>
   <ol type="1">
     <li>As agent Mark Smith we can see the ticket that we were assigned.</li>
-    <li>Click on the ticket to look at details of the encountered problem and notes or updates associated with the ticket.</li>
+    <li>Click on the ticket.</li>
   </ol>
 </p>
 <p>
@@ -280,15 +280,40 @@ In this lab, we will be creating tickets as end users and observing all the tick
 
 <p>
   <ol type="1">
-    <li></li>
-    <li>Click on the ticket to look at details of the encountered problem and notes or updates associated with the ticket.</li>
+    <li>Observe and look at the details of the encountered problem and notes or updates associated with the ticket by other agents or administrators.</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/c52c27134bd00db7d42793f8ff142bdc9f3e2520/images/Slide_14.jpg" alt="Slide_14"/>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/60f0532e9c0785bccf463ae8e696465132046a18/images/Slide_15.jpg" alt="Slide_15"/>
 </p>
 <br>
 <hr>
+
+<p>
+  <ol type="1">
+    <li>Update the ticket and the way the problem was solved.< .</li>
+      <li>As an example for this ticket we "Identified the outage as a temporary system error and brought the online banking back online by simply restarting the primary web service."</li>
+      <li>Note that every time you update the ticket, the user gets a copy and they can respond to it as well.</li>
+      <li>We can post the reply and change the ticket status to closed or resolved as you see highligted.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/blob/96e58f199e637cf10e79c97f0573e5995526305a/images/Slide_16.jpg" alt="Slide_16"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_17"/>
+</p>
+<br>
+<hr>
+
 
 
 
